@@ -1,0 +1,1 @@
+To Install: Extract files in archive to your TF2 root directory (eg C:\Program Files\Steam\steamapps\_accountname_\team fortress 2\tf\).

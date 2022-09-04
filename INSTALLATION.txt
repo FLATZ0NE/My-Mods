@@ -1,0 +1,1 @@
+Put .vpk file into tf/custom.

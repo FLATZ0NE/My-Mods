@@ -1,0 +1,11 @@
+How to install:
+
+1. Go to
+Steam\steamapps\common\Team Fortress 2\tf\custom
+and extract the file you downloaded
+
+2. Put the EnhancedDefHUD file in the custom folder
+
+3. Start playing TF2
+
+4. Enjoy!
